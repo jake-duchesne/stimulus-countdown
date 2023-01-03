@@ -4,7 +4,7 @@ Inspired by [@deanin](https://twitter.com/deaniocom) from this [video](https://w
 
 ## About
 
-Rails + Stimulus.js 
+Utilize Rails + Stimulus.js to create an application able to create, monitor and watch multiple countdowns at once.
 
 * Rails 7.0.4
 * Ruby 3.1.2
